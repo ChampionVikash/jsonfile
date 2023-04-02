@@ -1,0 +1,38 @@
+[
+ {
+  "id":1,
+  "title":"Web Development",
+  "image":"https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "description":"Web development services help create all types of web-based software and ensure great experience for web users."
+},
+ {
+  "id":2,
+  "title":"App Development",
+  "image":"https://images.pexels.com/photos/1092671/pexels-photo-1092671.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "description":"We assists in specific development stages as well as provides full-cycle mobile app implementation."
+ },
+ {
+  "id":3,
+  "title":"Software Development",
+  "image":"https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "description":"Software development services help plan, design, develop, integrate, test, manage and evolve software solutions."
+ },
+ {
+  "id":4,
+  "title":"Digital Marketing",
+  "image":"https://images.pexels.com/photos/3082341/pexels-photo-3082341.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "description":"Digital marketing services provide businesses of all sizes with an opportunity to market their brand 24/7 at a low cost."
+ },
+ {
+  "id":5,
+  "title":"Graphic Desiner",
+  "image":"https://images.pexels.com/photos/326503/pexels-photo-326503.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "description":"As an experienced graphic design services company, Creative India fuels innovation to pending ideas and gets them on the canvas right away."
+ },
+ {
+  "id":6,
+  "title":"UI/UX Desiner",
+  "image":"https://images.pexels.com/photos/245032/pexels-photo-245032.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "description":"Graphic designers focus on visual elements. UX designers take a broader perspective by focusing on the interaction between a user and a product."
+ }
+] 
